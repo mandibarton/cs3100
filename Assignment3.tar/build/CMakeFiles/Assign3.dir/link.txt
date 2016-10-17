@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11     CMakeFiles/Assign3.dir/Assign3.cpp.o CMakeFiles/Assign3.dir/execute.cpp.o  -o Assign3 -rdynamic 

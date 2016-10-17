@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11     CMakeFiles/Assign4.dir/Assign4.cpp.o CMakeFiles/Assign4.dir/execute.cpp.o  -o Assign4 -rdynamic 

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mandi/cs3100/Assignment3.tar/Assign3.cpp
+execute.h
+/home/mandi/cs3100/Assignment3.tar/execute.h
+
+/home/mandi/cs3100/Assignment3.tar/execute.cpp
+execute.h
+/home/mandi/cs3100/Assignment3.tar/execute.h
+
+/home/mandi/cs3100/Assignment3.tar/execute.h
+iostream
+-
+cstring
+-
+string
+-
+vector
+-
+sys/wait.h
+-
+unistd.h
+-
+stdio.h
+-
+exception
+-
+chrono
+-
+
